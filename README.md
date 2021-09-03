@@ -1,4 +1,4 @@
-# portafolio-fotografos
+# firebase-vue-auth
 
 ## Project setup
 ```
